@@ -6,4 +6,4 @@ A data science project of the Information and Data Analytics Foundation (IDAF) f
 This was achieved by analysing and training a machine learning algorithm on customers' historical data for personalised ad targeting. The model was also deployed to docker and Amazon web services.
 
 
-![bar chart](https://github.com/lanreakinosuntoye/portfolio/blob/main/Bar-charts-showing-the-relative-abundance-of-most-dominant-bacterial-A-and-fungal-B.png)
+![](https://github.com/lanreakinosuntoye/portfolio/blob/main/Bar-charts-showing-the-relative-abundance-of-most-dominant-bacterial-A-and-fungal-B.png)
